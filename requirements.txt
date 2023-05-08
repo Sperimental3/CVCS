@@ -1,0 +1,12 @@
+selenium
+bs4
+requests
+opencv
+lxml
+pandas
+opencv
+torchvision
+torch
+numpy
+matplotlib
+Pillow
